@@ -1,4 +1,4 @@
-package io.github.alekseygett.mviboilerplate.utils
+package io.github.alekseygett.vocabulary.utils
 
 import androidx.annotation.MainThread
 import androidx.lifecycle.LifecycleOwner

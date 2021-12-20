@@ -1,4 +1,4 @@
-package io.github.alekseygett.mviboilerplate
+package io.github.alekseygett.vocabulary
 
 import org.junit.Test
 

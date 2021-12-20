@@ -1,4 +1,4 @@
-package io.github.alekseygett.mviboilerplate.utils
+package io.github.alekseygett.vocabulary.utils
 
 sealed class Either<out LEFT, out RIGHT> {
 

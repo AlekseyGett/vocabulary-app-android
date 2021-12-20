@@ -1,4 +1,4 @@
-package io.github.alekseygett.mviboilerplate
+package io.github.alekseygett.vocabulary
 
 import androidx.test.platform.app.InstrumentationRegistry
 import androidx.test.ext.junit.runners.AndroidJUnit4
@@ -19,6 +19,6 @@ class ExampleInstrumentedTest {
     fun useAppContext() {
         // Context of the app under test.
         val appContext = InstrumentationRegistry.getInstrumentation().targetContext
-        assertEquals("io.github.alekseygett.mviboilerplate", appContext.packageName)
+        assertEquals("io.github.alekseygett.vocabulary", appContext.packageName)
     }
 }

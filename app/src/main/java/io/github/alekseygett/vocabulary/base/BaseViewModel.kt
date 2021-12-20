@@ -1,4 +1,4 @@
-package io.github.alekseygett.mviboilerplate.base
+package io.github.alekseygett.vocabulary.base
 
 import androidx.lifecycle.LiveData
 import androidx.lifecycle.MutableLiveData
